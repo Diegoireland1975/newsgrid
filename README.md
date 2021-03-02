@@ -4,4 +4,3 @@ I create it to improve my Grid skills
 
 Technologies used:
 Grid Sistem
-Link: https://grid-sportnews.netlify.app/
